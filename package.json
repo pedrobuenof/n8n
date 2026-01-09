@@ -1,0 +1,10 @@
+{
+  "name": "n8n-railway",
+  "private": true,
+  "scripts": {
+    "start": "n8n start"
+  },
+  "dependencies": {
+    "n8n": "1.39.1"
+  }
+}
